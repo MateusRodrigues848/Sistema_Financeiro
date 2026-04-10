@@ -23,15 +23,17 @@ Sistema financeiro em desenvolvimento, baseado no curso do Prof. Valdir Ferreira
 - Integração entre API e front-end
 
 📂 Estrutura do Projeto
-
+```
 /backend
-  ├── Domain
-  ├── Application
-  ├── Infrastructure
-  └── API
+  ├──  Domain
+  ├──  Application
+  ├──  Infrastructure
+  └──  API
 
 /frontend
-  └── Angular App
+  └──  Angular App
+```
+  
   
 ⚙️ Como executar o projeto
 🔧 Back-end (.NET)
