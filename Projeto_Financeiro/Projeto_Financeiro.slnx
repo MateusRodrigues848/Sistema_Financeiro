@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/1 -Apresentação/">
+    <Project Path="WebApi/WebApi.csproj" Id="d166f7b7-7fda-4573-936f-6d35baaf49b9" />
+  </Folder>
+  <Folder Name="/2 - Dominio/">
+    <Project Path="Domain/Domain.csproj" Id="5644a3f2-5db6-4af5-8470-46db667ae9b7" />
+  </Folder>
+  <Folder Name="/3 - InfraEstrutura/">
+    <Project Path="Infra/Infra.csproj" Id="600aee9a-ecb3-4c3c-84e6-a7e3e753c8ac" />
+  </Folder>
+  <Folder Name="/4 - Entidades/">
+    <Project Path="Entities/Entities.csproj" />
+  </Folder>
+  <Folder Name="/5 - Helpers/">
+    <Project Path="Helpers/Helpers.csproj" Id="5e1faf27-7e3c-4a4b-a845-80744029bf58" />
+  </Folder>
+</Solution>

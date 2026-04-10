@@ -1,0 +1,12 @@
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\bin\Debug\net7.0\Domain.deps.json
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\bin\Debug\net7.0\Domain.dll
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\bin\Debug\net7.0\Domain.pdb
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\Domain.dll
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\refint\Domain.dll
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\Domain.pdb
+F:\ProjetoFinanceiro\Projeto_Financeiro\Domain\obj\Debug\net7.0\ref\Domain.dll

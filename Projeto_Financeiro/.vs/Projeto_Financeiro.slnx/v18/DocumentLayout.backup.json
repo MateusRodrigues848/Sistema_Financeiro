@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D166F7B7-7FDA-4573-936F-6D35BAAF49B9}|WebApi\\WebApi.csproj|f:\\projetofinanceiro\\projeto_financeiro\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D166F7B7-7FDA-4573-936F-6D35BAAF49B9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600AEE9A-ECB3-4C3C-84E6-A7E3E753C8AC}|Infra\\Infra.csproj|f:\\projetofinanceiro\\projeto_financeiro\\infra\\repositorio\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600AEE9A-ECB3-4C3C-84E6-A7E3E753C8AC}|Infra\\Infra.csproj|solutionrelative:infra\\repositorio\\generics\\repositorygenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600AEE9A-ECB3-4C3C-84E6-A7E3E753C8AC}|Infra\\Infra.csproj|f:\\projetofinanceiro\\projeto_financeiro\\infra\\configura\u00E7\u00E3o\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600AEE9A-ECB3-4C3C-84E6-A7E3E753C8AC}|Infra\\Infra.csproj|solutionrelative:infra\\configura\u00E7\u00E3o\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D166F7B7-7FDA-4573-936F-6D35BAAF49B9}|WebApi\\WebApi.csproj|f:\\projetofinanceiro\\projeto_financeiro\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D166F7B7-7FDA-4573-936F-6D35BAAF49B9}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\interfaceservicos\\iusuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\iusuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\interfaceservicos\\isistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\isistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\interfaceservicos\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\icategoriaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\iususariosistemafinanceiro\\interfaceususariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iususariosistemafinanceiro\\interfaceususariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\isistemafinanceiro\\interfacesistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\idespesas\\interfacedespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\idespesas\\interfacedespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\icategorias\\interfacecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icategorias\\interfacecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|f:\\projetofinanceiro\\projeto_financeiro\\domain\\interfaces\\generics\\interfacegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644A3F2-5DB6-4AF5-8470-46DB667AE9B7}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\generics\\interfacegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|f:\\projetofinanceiro\\projeto_financeiro\\entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|f:\\projetofinanceiro\\projeto_financeiro\\entities\\enums\\enumtipodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\enums\\enumtipodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|f:\\projetofinanceiro\\projeto_financeiro\\entities\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|f:\\projetofinanceiro\\projeto_financeiro\\entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|f:\\projetofinanceiro\\projeto_financeiro\\entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|f:\\projetofinanceiro\\projeto_financeiro\\entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|f:\\projetofinanceiro\\projeto_financeiro\\entities\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|f:\\projetofinanceiro\\projeto_financeiro\\entities\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:05:03.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryGenerics.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "RelativeToolTip": "Infra\\Repositorio\\Generics\\RepositoryGenerics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:36:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T17:33:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Infra\\Configura\u00E7\u00E3o\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infra\\Configura\u00E7\u00E3o\\ContextBase.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Infra\\Configura\u00E7\u00E3o\\ContextBase.cs",
+              "RelativeToolTip": "Infra\\Configura\u00E7\u00E3o\\ContextBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:04:30.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiro.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\IUsuarioSistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:01:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISistemaFinanceiro.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiro.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\ISistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:01:28.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDespesaServico.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:01:12.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoriaServico.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\ICategoriaServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:00:51.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterfaceUsusarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\IUsusarioSistemaFinanceiro\\InterfaceUsusarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsusarioSistemaFinanceiro\\InterfaceUsusarioSistemaFinanceiro.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\IUsusarioSistemaFinanceiro\\InterfaceUsusarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsusarioSistemaFinanceiro\\InterfaceUsusarioSistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:59:30.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterfaceSistemaFinanceiro.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISistemaFinanceiro\\InterfaceSistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:59:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InterfaceDespesa.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\IDespesas\\InterfaceDespesa.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDespesas\\InterfaceDespesa.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\IDespesas\\InterfaceDespesa.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDespesas\\InterfaceDespesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:58:45.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InterfaceCategoria.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\ICategorias\\InterfaceCategoria.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICategorias\\InterfaceCategoria.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\ICategorias\\InterfaceCategoria.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICategorias\\InterfaceCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:58:27.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InterfaceGeneric.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:54:44.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnumTipoDespesa.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Enums\\EnumTipoDespesa.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\EnumTipoDespesa.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Enums\\EnumTipoDespesa.cs",
+              "RelativeToolTip": "Entities\\Enums\\EnumTipoDespesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:07:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Despesa.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\Despesa.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Despesa.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\Despesa.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Despesa.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:04:40.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Categoria.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T02:59:27.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T02:55:27.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SistemaFinanceiro.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\SistemaFinanceiro.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\SistemaFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T02:52:02.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Base.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\Base.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Base.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\Base.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T02:49:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Notifica.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Notificacoes\\Notifica.cs",
+              "RelativeDocumentMoniker": "Entities\\Notificacoes\\Notifica.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Notificacoes\\Notifica.cs",
+              "RelativeToolTip": "Entities\\Notificacoes\\Notifica.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAEBVwBwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T02:32:56.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\ApplicationUser.cs",
+              "ToolTip": "F:\\ProjetoFinanceiro\\Projeto_Financeiro\\Entities\\Entidades\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\Entidades\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T02:26:12.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
